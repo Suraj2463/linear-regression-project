@@ -41,6 +41,5 @@ Dataset: `cardekho.csv` (Used car data with features like brand, year, mileage, 
 **Suraj Kumar**  
 Aspiring  Data Science Enthusiast  
 📧 Email: suraj262667@gmail.com
-https://github.com/Suraj2463/linear-regression-project.git
-above is git hub link
+
 
